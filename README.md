@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ms-vishwanath&label=Profile%20views&color=0e75b6&style=flat" alt="ms-vishwanath" /> </p>
 
-- 🔭 I’m currently working on **Intecai**
-
-- 💬 Ask me about **React and Express**
-
-- 📫 How to reach me **vishwanath@intecai.in**
-
-- ⚡ Fun fact **I hate conflicts**
+- Ask me about **NextJS,React and Express**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
